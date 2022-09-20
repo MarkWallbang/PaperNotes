@@ -11,3 +11,5 @@ Tags: [NerF](tags/nerf.md), [self-supervised](tags/selfsupervised.md)
 ## Technical Details
 
 ## Notes
+
+## Questions

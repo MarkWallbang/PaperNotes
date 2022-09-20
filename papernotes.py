@@ -66,6 +66,7 @@ for name,content in paperdict.items():
     mdFile.new_header(2, "Summary")
     mdFile.new_header(2, "Technical Details")
     mdFile.new_header(2, "Notes")
+    mdFile.new_header(2, "Questions")
     mdFile.create_md_file()
     
 # create combined dataset of papers
